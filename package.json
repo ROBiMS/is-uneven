@@ -1,0 +1,25 @@
+{
+  "name": "is-uneven",
+  "version": "1.0.0",
+  "description": "Checks if a number is uneven",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ROBiMS/is-uneven.git"
+  },
+  "keywords": [
+    "uneven"
+  ],
+  "author": "ROBiMS",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ROBiMS/is-uneven/issues"
+  },
+  "homepage": "https://github.com/ROBiMS/is-uneven#readme",
+  "dependencies": {
+    "is-even": "^1.0.0"
+  }
+}
