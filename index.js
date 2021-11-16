@@ -10,5 +10,5 @@ module.exports = function isUneven(i) {
   // Since we want to return something, we use the return 
   // keyword. With this we check if a number i is uneven and
   // return true if it is and false if it is not.
-  return isEven(i) === false;
+  return (isEven(i) === true) === false;
 };
