@@ -31,6 +31,7 @@ isUneven('3');
 
 Help with this big and important project is very appreciated. Feel free to [create an issue](../../issues/new) if there is one, there is none.
 
+To start a fully configured development environment using Gitpod click [here](https://gitpod.io/#https://github.com/ROBiMS/is-uneven).
 
 ### Author
 
