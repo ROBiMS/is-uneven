@@ -7,7 +7,7 @@ var isEven = require('is-even');
 // others (who import this with require) to use the function
 // isUneven to greatly improve their code!
 module.exports = function isUneven(i) {
-  // Since we want to return something, we use the return 
+  // Since we want to return something, we use the return
   // keyword. With this we check if a number i is uneven and
   // return true if it is and false if it is not.
   return (isEven(i) === true) === false;
